@@ -1,0 +1,13 @@
+input{
+    font-family: 'Helvetica', sans-serif;
+    font-weight: normal;
+}
+input[type=texte] {
+    font-family: "Helvetica", sans-serif;
+    font-weight: normal;
+  }
+
+  .input-div{
+    flex: 1;
+    display: flex;
+  }
